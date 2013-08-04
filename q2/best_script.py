@@ -1,3 +1,10 @@
+'''
+--[[
+    created by : Narate Ketram
+    twitter @eNarate
+    facebook https://www.facebook.com/koonnarate
+--]]
+'''
 fin = open('numbers.txt', 'r')
 fout = open('run_result.txt', 'w')
 din = []

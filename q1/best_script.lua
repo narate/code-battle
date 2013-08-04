@@ -1,3 +1,8 @@
+--[[
+    created by : Narate Ketram
+    twitter @eNarate
+    facebook https://www.facebook.com/koonnarate
+--]]
 local fin = io.open('numbers.txt', 'r')
 local fout = io.open('run_result.txt', 'w')
 local din = {}
