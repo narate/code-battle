@@ -1,0 +1,2 @@
+./a.out 'lua best_script.out'
+python test.py

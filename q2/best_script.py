@@ -23,3 +23,4 @@ for k, v in dout.items():
         fout.write("\"" + str(k) + "\", " + str(v) + "\n")
 fin.close()
 fout.close()
+print "done :)"
